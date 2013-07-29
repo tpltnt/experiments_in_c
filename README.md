@@ -1,4 +1,4 @@
-experiments_in_c
+experiments in C
 ================
 
-just some scribbles in C, nothing special
+Just some scribbles in C. Nothing special, more a distributed notebook.
